@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#mycanvas
+{
+   border-width: 40px;
+   background-color: aqua;
+   border-style: groove;
+   border-color: black;
+}
+
